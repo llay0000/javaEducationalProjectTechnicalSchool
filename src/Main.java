@@ -9,5 +9,9 @@ public class Main {
             System.out.println("Я переборол свою лень! №" + i++);
             System.out.println(":)");
         }
+        for (int i = 1; i <= 10;) {
+            System.out.println("Я краню! №" + i++);
+            System.out.println(":)");
+        }
     }
 }
